@@ -1,0 +1,16 @@
+.box,.boxtwo{
+    height: 500px;
+    width: 500px;
+    background: url(https://images.unsplash.com/photo-1602491453631-e2a5ad90a131?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2727&q=80)no-repeat center/cover;
+    border : 10px ridge greenyellow;
+}
+
+.boxtwo{
+    background: url(https://www.motowag.com/wp-content/uploads/2023/01/1969-ford-mustang.jpg)no-repeat center/cover;
+    border : 10px ridge tomato;
+    width : 800px;
+}
+
+.container{
+    max-width: 1800px;
+}
